@@ -2,7 +2,7 @@
 
 This repository contains a structured learning roadmap covering Data Structures & Algorithms (DSA), Competitive Programming, Data Handling, Machine Learning, Deep Learning, Generative AI, AI Agents, and MLOps.
 
-## 📌 Categories
+## 📌 Chapters
 
 ### 1️⃣ Python Fundamentals 🐍
 - 🏗 OOP, Generators, Decorators
